@@ -28,5 +28,3 @@ This Program is based on the ml node_module. ML module contains many tools for m
 Required Packages (Install using npm) : ml, csvtojson
 Name of the script : SLR.js
 Extra Files : Advertisement.cls (Input data for the model)
-
-MORE EXAMPLES WILL BE ADDED SOON. [ONHOLD - Will Update in another 6 months]
